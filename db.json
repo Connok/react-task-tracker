@@ -7,10 +7,16 @@
       "id": 1
     },
     {
-      "text": "Help",
-      "day": "Last Wekks",
+      "text": "Take Out Garbage",
+      "day": "Sunday",
       "reminder": false,
-      "id": 2
+      "id": 3
+    },
+    {
+      "text": "Go to work",
+      "day": "Tomorrow",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
